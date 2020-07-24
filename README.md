@@ -1,2 +1,1 @@
-# turntable_uni
-lottery
+# 抽奖小程序
